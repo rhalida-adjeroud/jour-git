@@ -1,0 +1,17 @@
+.tableau_style{
+    border-collapse: collapse;
+    min-width: 600px;
+    width: auto;
+    box-shadow: 0 5px rgba(0,0,0,0,15);
+    cursor: pointer;
+    margin:  100px auto;
+    border: 2px solid midnightblue;
+}
+thead tr{
+    background-color: midnightblue;
+    color: #fff;
+    text-align: left;
+}
+th, td{
+    padding: 15px 20px;
+}
